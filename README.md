@@ -5,7 +5,7 @@
     使用的Ubuntu虚拟机，所以虚拟机上进行环境的安装
     首先在网站 https://studygolang.com/dl 上下载golang的安装包，
     之后在安装包的目录下在终端调用指令：sudo tar -zxvf go1.13.linux-amd64.tar.gz 来解压安装包
-    4
+    ![avatar](/imag/4.png)
     之后要配置环境变量
     运行指令 sudo vim /etc/profile
     在文件最后一行加入：
